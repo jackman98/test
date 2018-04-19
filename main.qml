@@ -1,4 +1,3 @@
-
 import QtQuick 2.10
 import QtQuick.Window 2.10
 
@@ -14,5 +13,9 @@ Window {
         width: 200
         height: 100
         color: "red"
+        Text {
+            anchors.centerIn: parent
+            text: "Hello World!"
+        }
     }
 }
