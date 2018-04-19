@@ -1,6 +1,6 @@
-
 import QtQuick 2.10
 import QtQuick.Window 2.10
+import QtQuick.Controls 2.3
 
 Window {
     visible: true
@@ -15,4 +15,10 @@ Window {
         height: 100
         color: "red"
     }
+
+    Button {
+
+    }
+
+
 }
