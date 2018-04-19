@@ -13,12 +13,14 @@ Window {
         anchors.centerIn: parent
         width: 200
         height: 100
-        color: "red"
+        color: "blue"
+        Text {
+            anchors.centerIn: parent
+            text: "Hello World!"
+        }
     }
 
     Button {
 
     }
-
-
 }
