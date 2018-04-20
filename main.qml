@@ -21,8 +21,9 @@ Window {
     }
 
     Button {
-
+        id: btn
+        width: 50
+        height: 30
     }
-
 
 }
