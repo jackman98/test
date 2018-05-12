@@ -19,11 +19,4 @@ Window {
             text: "Hello World!"
         }
     }
-
-    Button {
-        id: btn
-        width: 50
-        height: 30
-    }
-
 }
