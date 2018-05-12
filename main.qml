@@ -22,8 +22,9 @@ Window {
 
     Button {
         id: btn
-        width: 50
+        width: 150
         height: 30
+	visible: true
     }
 
 }
