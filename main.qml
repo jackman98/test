@@ -26,5 +26,4 @@ Window {
         height: 30
 	visible: true
     }
-
 }
